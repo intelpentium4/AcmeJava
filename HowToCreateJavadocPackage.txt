@@ -1,0 +1,1 @@
+javadoc -d [path to javadoc destinatiion directory] [package name1] [package name2] [package nameN]

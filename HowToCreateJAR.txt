@@ -1,0 +1,1 @@
+jar cf filename directory(recursivly includes all subdirectories)
